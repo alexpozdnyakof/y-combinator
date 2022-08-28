@@ -1,0 +1,15 @@
+{
+  "name": "YCombinator",
+  "version": "0.0.1",
+  "description": "Simple Y/Z-combinator js implementation",
+  "main": "index.js",
+  "author": "alexpozdnyakof",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
